@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953755908044",
+    "project_id": "messaging-app-caad9",
+    "storage_bucket": "messaging-app-caad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953755908044:android:8c5d9d21d77d068df74f69",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953755908044-1u6ahk72ollno4jeldgqlae6j29au9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASfI-8k1f_FboabtKvzWW7594qw7e58o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953755908044-1u6ahk72ollno4jeldgqlae6j29au9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
